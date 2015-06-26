@@ -1,5 +1,17 @@
 # ドゥーン!
 
+```
+　　　∧_∧ 
+　　(　･ω･)　ﾄﾞｩｰﾝ!! 
+　　|　⊃⊃ 
+　　└つつ 
+ 
+　　　｜｜｜  
+ 
+　＿＿／(＿_ 
+／　　(＿＿_／ 
+```
+
 ## Installation
 
 1. `npm install hubot-duuune --save`
