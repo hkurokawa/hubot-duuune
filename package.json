@@ -1,6 +1,6 @@
 {
   "name": "hubot-duuune",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ドゥーン!",
   "main": "index.coffee",
   "scripts": {
