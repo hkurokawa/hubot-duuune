@@ -11,7 +11,7 @@
 
 module.exports = (robot) ->
   robot.hear /(ドゥーン|duu+ne|doo+ne)/i, (msg) ->
-    msg.send """
+    msg.send """‘‘‘
 　　　∧_∧ 
 　　(　･ω･)　ﾄﾞｩｰﾝ!! 
 　　|　⊃⊃ 
@@ -21,4 +21,4 @@ module.exports = (robot) ->
  
 　＿＿／(＿_ 
 ／　　(＿＿_／ 
-  """
+‘‘‘"""
