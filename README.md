@@ -1,4 +1,5 @@
 # ﾄﾞｩｰﾝ!!
+[![npm version](https://badge.fury.io/js/hubot-duuune.svg)](http://badge.fury.io/js/hubot-duuune)
 
 ```
 　　　∧_∧ 
