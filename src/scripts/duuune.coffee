@@ -2,7 +2,7 @@
 #   ドゥーン!
 #
 # Commands:
-#   ドゥーン
+#   /ドゥー+ン/
 #   /duu+ne/
 #   /doo+ne/
 #
@@ -10,7 +10,7 @@
 #   - hkurokawa
 
 module.exports = (robot) ->
-  robot.hear /(ドゥーン|duu+ne|doo+ne)/i, (msg) ->
+  robot.hear /(ドゥー+ン|duu+ne|doo+ne)/i, (msg) ->
     msg.send """‘‘‘
 　　　∧_∧ 
 　　(　･ω･)　ﾄﾞｩｰﾝ!! 
